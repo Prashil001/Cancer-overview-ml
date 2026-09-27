@@ -1,0 +1,92 @@
+[
+  {
+    "original": "text_extraction.ipynb",
+    "organized": "notebooks/01_text_extraction.ipynb",
+    "original_sha256": "70110aae2d44e2de5c072952b57f5ba8fb62daa38bcb19f77fa0f72b7bf1a725"
+  },
+  {
+    "original": "data_cleaning.ipynb",
+    "organized": "notebooks/02_data_cleaning.ipynb",
+    "original_sha256": "13246f75f05d9f69e026d733ac7634de24cdcd025308c17666f800c281efbfa6"
+  },
+  {
+    "original": "ngrams.ipynb",
+    "organized": "notebooks/03_ngrams.ipynb",
+    "original_sha256": "8cbb29fb6cc3e50e1e2fde2fda80caecafc5f8bda002383ac2a3c2784b4bcc23"
+  },
+  {
+    "original": "ngram_cleaning.ipynb",
+    "organized": "notebooks/04_ngram_cleaning.ipynb",
+    "original_sha256": "edef6de0108c25fc3728add036608e451deb381beb93e59ce13dfca0aefce69d"
+  },
+  {
+    "original": "freq_manage.ipynb",
+    "organized": "notebooks/05_frequency_adjustment.ipynb",
+    "original_sha256": "07d4be91e2db33d97b004f7abeac5c3aeb942579d21e8afae8c071b2f132eb3b"
+  },
+  {
+    "original": "id_mapping.ipynb",
+    "organized": "notebooks/06_term_document_matrix.ipynb",
+    "original_sha256": "502be2bef5c27efc360ebe1331038d53cbec90d94e94501e7388803a7eb80c3f"
+  },
+  {
+    "original": "svd.ipynb",
+    "organized": "notebooks/07_svd_neighbors.ipynb",
+    "original_sha256": "9d3152c82f0b226ef4cc44febb5bc3685742d7e4d21265dbeb38de8a5243190f"
+  },
+  {
+    "original": "phase-2/gene_mapping.ipynb",
+    "organized": "notebooks/phase_2/gene_mapping.ipynb",
+    "original_sha256": "c2f303edbea81aae23db257fb52c551887fd19fef7e84a570a389d22a6dd3ebd"
+  },
+  {
+    "original": "bad_html",
+    "organized": "data/interim/quarantine/bad_html/original_bad_html",
+    "original_sha256": "5feb6f659124b6e5574f62684adfd8f51bc9b70dce4aa144d1490d42c422d777"
+  },
+  {
+    "original": "other_lang_html",
+    "organized": "data/interim/quarantine/other_lang_html/original_other_lang_html",
+    "original_sha256": "4359aab65b83a0356ad8a7cc191461639924ae42a939465d97786942203598a6"
+  },
+  {
+    "original": "term_document_matrix.csv",
+    "organized": "data/processed/matrices/term_document_matrix.csv",
+    "original_sha256": "1f3c31a4cdb56a12768c4d3f8dd2b85679f052774d8c4072d54434103cec5d65"
+  },
+  {
+    "original": "best_neibhours.csv",
+    "organized": "results/neighbors/best_neibhours.csv",
+    "original_sha256": "1ade32acc74703244e0150f67edebb93497112db552ed2a446d85bb51c0062ed"
+  },
+  {
+    "original": "goodBigram.csv",
+    "organized": "data/processed/ngrams/goodBigram.csv",
+    "original_sha256": "5612ede6f6f718d73b42030da67dca26f8ab9bf4f60c00c3d3e2a618ba888c3d"
+  },
+  {
+    "original": "goodbi_cleaned.csv",
+    "organized": "data/processed/ngrams/goodbi_cleaned.csv",
+    "original_sha256": "113d329eb67d275eb4db09200261e0c480bfd53b66fe13378d7588b2ffebdf37"
+  },
+  {
+    "original": "goodQuadgram.csv",
+    "organized": "data/processed/ngrams/goodQuadgram.csv",
+    "original_sha256": "97823dce81a340d6cc1a04e4c39734b05490df831e2e5dcd12e188926395636d"
+  },
+  {
+    "original": "goodTriGrams.csv",
+    "organized": "data/processed/ngrams/goodTriGrams.csv",
+    "original_sha256": "69949536ed7e8e77dad17213835b861c5bf029a3dea49be867cd9aaec6eee151"
+  },
+  {
+    "original": "goodUni_cleaned.csv",
+    "organized": "data/processed/ngrams/goodUni_cleaned.csv",
+    "original_sha256": "3bea589da2e3805d82d12d8d52d6d3cada5ffb1ae44c022b8e55b34610138ef0"
+  },
+  {
+    "original": "unigram_sorted.csv",
+    "organized": "data/processed/ngrams/unigram_sorted.csv",
+    "original_sha256": "5428e431b6aebfd1f917f8aa7279beca234591e8ba1cb0fd5e8aad65833a2c91"
+  }
+]

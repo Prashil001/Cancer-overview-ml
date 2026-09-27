@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+# Local corpus and reference downloads; preserve directory placeholders.
+data/raw/html/*
+!data/raw/html/.gitkeep
+data/raw/reference/*
+!data/raw/reference/.gitkeep
+data/interim/text/*
+!data/interim/text/.gitkeep
+data/interim/cleaned_text/*
+!data/interim/cleaned_text/.gitkeep

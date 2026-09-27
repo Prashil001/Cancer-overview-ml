@@ -1,0 +1,12 @@
+# Initial dependency list; versions are not yet locked to a validated environment.
+beautifulsoup4
+langdetect
+matplotlib
+nltk
+numpy
+pandas
+pymupdf
+scikit-learn
+scipy
+spacy
+jupyterlab
